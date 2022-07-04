@@ -14,3 +14,6 @@
 
 ## Data Cleaning Using Power Query:
 ![](/image/Power_Query_Editor.png)
+
+## Data Modelling Using PowerBI:
+![](/image/Data_modelling_powerBI.png)

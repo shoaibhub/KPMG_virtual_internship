@@ -8,8 +8,9 @@
 * Data Insights: Targeting high value customers based on customer demographics and attributes (Data modelling and Exploratory Data Analysis)
 * Data Insights and Presentation: Using visualisation to present Insights (Creating a dashboard in PowerBI)
 
-**Final Dashboard Picture:**
+## Final Dashboard Picture:
+
 ![](/image/Final%20dashboard.png)
 
-**Data Cleaning Using Power Query**
+## Data Cleaning Using Power Query:
 ![](/image/Power_Query_Editor.png)

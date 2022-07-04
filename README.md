@@ -10,3 +10,6 @@
 
 **Final Dashboard Picture:**
 ![](/image/Final%20dashboard.png)
+
+**Data Cleaning Using Power Query**
+![](/image/Power_Query_Editor.png)

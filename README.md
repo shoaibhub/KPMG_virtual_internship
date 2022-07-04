@@ -9,4 +9,4 @@
 * Data Insights and Presentation: Using visualisation to present Insights (Creating a dashboard in PowerBI)
 
 **Final Dashboard Picture:**
-![](/image/KPMG_FINAL_DASHBOARD.png)
+![](/image/KPMG_FINAL%20_DASHBOARD.png)

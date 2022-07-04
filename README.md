@@ -18,3 +18,10 @@
 
 ## Data Modelling Using PowerBI:
 ![](/image/Data_modelling_powerBI.png)
+
+## Findings:
+### this dashboard specifies who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to.
+* Top selling products along with product class can help the company make better marketing strategies based on different age groups.
+* Profit by month can help the company track seasonal changes.
+* The table specifies focus customer that the company should be targetting based on high ranks.
+* The dashboard is interactive and can be filtered by different states to get an overview of states that bring in more profit.

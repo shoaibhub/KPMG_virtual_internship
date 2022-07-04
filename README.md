@@ -11,7 +11,7 @@
 
 ## Final Dashboard Picture:
 
-![](/image/Final_Dashboard.png)
+![](/image/Final_dashboard.png)
 
 ## Data Cleaning Using Power Query:
 ![](/image/Power_Query_Editor.png)
